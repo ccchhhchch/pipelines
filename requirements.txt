@@ -1,0 +1,5 @@
+pytest~=7.2.2
+pipelines~=0.1.0
+setuptools~=65.5.1
+pandas~=1.5.3
+click~=8.1.3
